@@ -1,1 +1,2 @@
-This file is created n the second copy of the GitHub repo.
+This file is created in the second copy of the GitHub repo.
+This is created in the first copy.
